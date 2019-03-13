@@ -1,0 +1,8 @@
+*.dll
+*.xml
+HgGitTest/.vs/
+HgGitTest/GitHgtest/obj/
+*.nupkg
+*.p7s
+*.targets
+*.props
