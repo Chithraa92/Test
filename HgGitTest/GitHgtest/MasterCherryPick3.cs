@@ -8,6 +8,5 @@ namespace GitHgtest
 {
     class MasterCherryPick3
     {
-        string s = "";
     }
 }
